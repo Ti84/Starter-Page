@@ -10,7 +10,12 @@ const LinkList = props => {
         <ul>
           {links[linkTitle].map(linkObject => (
             <li key={linkObject.link}>
-              <a className="link-item" href={linkObject.link} target="_blank">
+              <a
+                className="link-item"
+                rel="noopener noreferrer"
+                href={linkObject.link}
+                target="_blank"
+              >
                 {linkObject.label}
               </a>
             </li>
