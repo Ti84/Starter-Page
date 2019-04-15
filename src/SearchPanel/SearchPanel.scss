@@ -1,0 +1,35 @@
+/* Inputs */
+.search-input {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btn {
+  padding: 5px 15px;
+  border-radius: 4px;
+  border: solid 1px #eb3252;
+  color: white;
+  font-family: Baloo Chettan, cursive;
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #161d15;
+  color: white;
+  font-size: 20px;
+}
+
+.lg-text-input {
+  border: solid 1px #eb3252;
+  color: white;
+  background-color: #161d15;
+  border-radius: 4px;
+  padding: 5px;
+  font-size: 20px;
+  font-family: Baloo Chettan, cursive;
+}
+
+.lg-input-text-input::placeholder {
+  color: white;
+  opacity: 1;
+}

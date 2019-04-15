@@ -1,0 +1,49 @@
+.favorite-links {
+  height: 40%;
+}
+
+.section-header {
+  text-align: left;
+  padding-left: 15px;
+  color: #ea3453;
+  font-size: 1.5em;
+}
+
+@media only screen and (max-width: 900px) {
+  .link-section {
+    width: 95%;
+  }
+}
+
+.link-section {
+  border-radius: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-color: rgba(36, 66, 26, 0.5);
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.link-section ul {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-left: -1px;
+  padding-left: 0;
+}
+
+.link-section li {
+  margin: 0.25em 0;
+}
+
+.link-section li a {
+  text-decoration: none;
+  color: #bb498e;
+  text-align: center;
+  border-left: 1px solid #ccc;
+  padding-left: 10px;
+  padding-right: 10px;
+}
