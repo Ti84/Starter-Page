@@ -1,5 +1,5 @@
 {
-  "main.css": "/Starter-Page/static/css/main.00c5eec1.chunk.css",
+  "main.css": "/Starter-Page/static/css/main.067857aa.chunk.css",
   "main.js": "/Starter-Page/static/js/main.f353876c.chunk.js",
   "main.js.map": "/Starter-Page/static/js/main.f353876c.chunk.js.map",
   "runtime~main.js": "/Starter-Page/static/js/runtime~main.52ace986.js",
@@ -7,8 +7,8 @@
   "static/js/2.d6a534e5.chunk.js": "/Starter-Page/static/js/2.d6a534e5.chunk.js",
   "static/js/2.d6a534e5.chunk.js.map": "/Starter-Page/static/js/2.d6a534e5.chunk.js.map",
   "index.html": "/Starter-Page/index.html",
-  "precache-manifest.723c3bf6ec0bab072b1176f6dc20a520.js": "/Starter-Page/precache-manifest.723c3bf6ec0bab072b1176f6dc20a520.js",
+  "precache-manifest.1775b780062906999a28943104fdba86.js": "/Starter-Page/precache-manifest.1775b780062906999a28943104fdba86.js",
   "service-worker.js": "/Starter-Page/service-worker.js",
-  "static/css/main.00c5eec1.chunk.css.map": "/Starter-Page/static/css/main.00c5eec1.chunk.css.map",
+  "static/css/main.067857aa.chunk.css.map": "/Starter-Page/static/css/main.067857aa.chunk.css.map",
   "static/media/index.scss": "/Starter-Page/static/media/morgana-background.f9376fe4.jpg"
 }
