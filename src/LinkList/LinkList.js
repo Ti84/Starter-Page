@@ -4,9 +4,9 @@ import './LinkList.scss';
 const LinkList = props => {
   const { links } = props;
   const linkList = Object.keys(links).map(linkTitle => (
-    <div key={linkTitle} class="link-section">
-      <h1 class="section-header">{linkTitle}</h1>
-      <div class="hide-overflow">
+    <div key={linkTitle} className="link-section">
+      <h1 className="section-header">{linkTitle}</h1>
+      <div className="hide-overflow">
         <ul>
           {links[linkTitle].map(linkObject => (
             <li key={linkObject.link}>
